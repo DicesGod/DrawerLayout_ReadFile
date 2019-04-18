@@ -1,0 +1,4 @@
+a0,19th Miror,300,50
+a1,George III Sofa,800,120
+a2,Chinese woodstand,450,33
+a3,Louis XVI console,250,75
